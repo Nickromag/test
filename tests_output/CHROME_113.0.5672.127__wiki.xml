@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="wiki"
+    errors="0" failures="0" hostname="" id="" package="wiki" skipped="0"
+    tests="1" time="8.785" timestamp="">
+  
+    <testcase name="Wiki links" classname="wiki" time="4.392" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
